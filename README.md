@@ -10,4 +10,4 @@ Java, C# & Other more!
 Tools:
 Intellij, VisualStudio, Visual Studio Code.
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=deebeesea1&repo=dev.to)](https://github.com/deebeesea1/DeeBeeSea1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deebeesea1)](https://github.com/anuraghazra/github-readme-stats)
