@@ -10,3 +10,4 @@ Java, C# & Other more!
 Tools:
 Intellij, VisualStudio, Visual Studio Code.
 
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
