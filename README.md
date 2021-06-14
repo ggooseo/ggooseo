@@ -12,6 +12,3 @@ Intellij, VisualStudio, Visual Studio Code.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deebeesea1&show_icons=true&theme=radical)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deebeesea1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
