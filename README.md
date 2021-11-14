@@ -1,7 +1,7 @@
-Hi there, I'm deebeesea 👋
+Hi there, I'm gooso
 
-I'm a Programer.
-🌋 I’m currently working on a Unity Game!
+I'm a progremeerr.
+🌋 I’m currently working on a mc client..
 
 Learning:
 Java, C# & Other more!
