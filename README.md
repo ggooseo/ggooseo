@@ -1,9 +1,6 @@
 hey there, I'm gooso
 
-I'm a trash programmer.
-🌋 I’m currently working on a mc client..
-
-Learning: Java.
+I'm a trash garbage programmer.
 
 Tools:
 Intellij Idea, VisualStudio, Visual Studio Code.
